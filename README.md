@@ -81,3 +81,7 @@ Join the community Discord server here:
 
 Made with ❤️ by **zle0o**
 
+---
+
+Like this extension? Leave a ⭐ on GitHub!
+
