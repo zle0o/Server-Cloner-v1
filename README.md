@@ -83,5 +83,5 @@ Made with ❤️ by **zle0o**
 
 ---
 
-Like this extension? Leave a ⭐ on GitHub!
+Like this Cloner? Leave a ⭐ on GitHub!
 
