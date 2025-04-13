@@ -68,6 +68,12 @@ python server_cloner.py
 - This tool **does not clone** messages, threads, or bots.
 - Avoid using this script on accounts that you cannot afford to lose.
 
+---  
+
+## 📜 License  
+
+MIT License – Free to use and modify.  
+
 ---
 
 ## 🔗 Community
