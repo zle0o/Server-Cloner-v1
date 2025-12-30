@@ -26,7 +26,7 @@
 ## 🛠 Requirements
 
 - Python 3.11+
-- A Discord user account **with admin permissions** on both source and target servers.
+- A Discord user account **with admin permissions on the target server** where channels will be created.
 - Required Python packages:
   - `discord.py`
   - `requests`
@@ -118,7 +118,7 @@ python server_cloner.py
 ## ❗ Important Notes
 
 - The script uses your **Discord user token**, which can be risky. Use at your own discretion.
-- The account **must** have admin permissions on both servers.
+- The account **must** have admin permissions on the target server where channels will be created.
 - This tool respects Discord rate limits and implements smart throttling.
 - Large servers may take considerable time to clone.
 - Some server settings may require specific permissions to modify.
@@ -141,7 +141,7 @@ python server_cloner.py
 - Token may have been rotated; update it
 
 **"Access Denied" Error**
-- Confirm you have admin permissions
+- Confirm you have admin permissions on the target server
 - Check bot permissions in server settings
 
 **"Rate Limited" Message**
